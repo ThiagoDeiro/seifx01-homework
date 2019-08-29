@@ -1,0 +1,70 @@
+body{
+  background: white;
+}
+
+.maincontent{
+  max-width: 400px;
+  height: 600px;
+  background-color: black;
+  margin: 0 auto;
+  border-radius: 20px;
+}
+
+
+.creditimag{
+  position: fixed;
+  display: block;
+  max-width: 190px;
+  margin-top: -450px;
+  margin-left: 734px;
+  z-index: 20;
+  border: 1px lightblue;
+}
+
+
+.banktitle{
+  text-align: center;
+  padding: 100px;
+  font-size: 20px;
+  color: orange;
+}
+
+ul{
+  text-align: center;
+  list-style-type: none;
+  margin-top: -250px;
+}
+
+
+#listitem1{
+  display: block;
+  background: lightgrey;
+  max-width:100px;
+  height: 100px;
+  margin-left: 610px;
+  border-radius: 10px;
+}
+
+.item1{
+  margin-top: 30px;
+  line-height: 100px;
+}
+
+#listitem2{
+  display: block;
+  background: lightgrey;
+  max-width:100px;
+  height: 100px;
+  margin-left: 610px;
+  border-radius: 10px;
+  margin-top: 10px;
+}
+#listitem3{
+  display: block;
+  background: lightgrey;
+  max-width:100px;
+  height: 100px;
+  margin-left: 760px;
+  border-radius: 10px;
+  margin-top: -210px;
+}
